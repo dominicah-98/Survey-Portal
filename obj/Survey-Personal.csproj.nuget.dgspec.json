@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\my personal\\OfficeCodes\\Survey-Personal\\Survey-Personal.csproj": {}
+    "E:\\GitRepos\\Survey-Portal\\Survey-Personal.csproj": {}
   },
   "projects": {
-    "E:\\my personal\\OfficeCodes\\Survey-Personal\\Survey-Personal.csproj": {
+    "E:\\GitRepos\\Survey-Portal\\Survey-Personal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\my personal\\OfficeCodes\\Survey-Personal\\Survey-Personal.csproj",
+        "projectUniqueName": "E:\\GitRepos\\Survey-Portal\\Survey-Personal.csproj",
         "projectName": "Survey-Personal",
-        "projectPath": "E:\\my personal\\OfficeCodes\\Survey-Personal\\Survey-Personal.csproj",
+        "projectPath": "E:\\GitRepos\\Survey-Portal\\Survey-Personal.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\my personal\\OfficeCodes\\Survey-Personal\\obj\\",
+        "outputPath": "E:\\GitRepos\\Survey-Portal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,10 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"

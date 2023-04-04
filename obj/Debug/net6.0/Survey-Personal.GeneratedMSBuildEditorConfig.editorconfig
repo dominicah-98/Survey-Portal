@@ -9,37 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Survey_Personal
 build_property.RootNamespace = Survey_Personal
-build_property.ProjectDir = E:\my personal\OfficeCodes\Survey-Personal\
+build_property.ProjectDir = E:\GitRepos\Survey-Portal\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\my personal\OfficeCodes\Survey-Personal
+build_property.MSBuildProjectDirectory = E:\GitRepos\Survey-Portal
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/my personal/OfficeCodes/Survey-Personal/Views/EmployeeSurveyList/Index.cshtml]
+[E:/GitRepos/Survey-Portal/Views/EmployeeSurveyList/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVTdXJ2ZXlMaXN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/my personal/OfficeCodes/Survey-Personal/Views/Shared/Error.cshtml]
+[E:/GitRepos/Survey-Portal/Views/Logout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nb3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitRepos/Survey-Portal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/my personal/OfficeCodes/Survey-Personal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/GitRepos/Survey-Portal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/my personal/OfficeCodes/Survey-Personal/Views/SurveyCreation/Index.cshtml]
+[E:/GitRepos/Survey-Portal/Views/SurveyCreation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5Q3JlYXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/my personal/OfficeCodes/Survey-Personal/Views/_ViewImports.cshtml]
+[E:/GitRepos/Survey-Portal/Views/SurveyResponse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VydmV5UmVzcG9uc2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitRepos/Survey-Portal/Views/UserSurveyForm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN1cnZleUZvcm1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitRepos/Survey-Portal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/my personal/OfficeCodes/Survey-Personal/Views/_ViewStart.cshtml]
+[E:/GitRepos/Survey-Portal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/my personal/OfficeCodes/Survey-Personal/Views/Shared/_Layout.cshtml]
+[E:/GitRepos/Survey-Portal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9t5d19ci9w

@@ -1,0 +1,45 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+    ViewBag.Title = "Mendine Survey | Survey Response";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form id="SurveyCreation">
+    <label id="hdSessionUname" class="d-none">@Accessor.HttpContext.Session.GetString("UserName")</label>
+    <label id="hdSessionUID" class="d-none">@Accessor.HttpContext.Session.GetString("UserId")</label>
+    <label id="hdSessionUEmail" class="d-none">@Accessor.HttpContext.Session.GetString("UserEmail")</label>
+    @*<div class="row mb-2">
+    <div class="col-md-2">
+    <label>Description</label>
+    </div>
+    <div class="col-md-10">
+    <label class="lead fs-6" id="lblDescription"></label>
+    </div>
+    </div>*@
+    <div class="row mb-2 justify-content-center">
+        <div class="col-md-11">
+            <div class="modal-header d-flex align-items-center justify-content-between">
+                <div>
+                    <label class="lead fs-3 d-block" id="lblSurveyName"></label>
+                    <label class="lead fs-6 d-block mt-2" id="lblDescription"></label>
+                    <input type="hidden" id="hdIDSurveyDetail" />
+                </div>
+                <div>
+                    <label class="lead fs-3 d-block" id="lblTimerCountdown"></label>
+                </div>
+            </div>
+        </div>
+        @*<div class="col-md-12">
+        <hr>
+        </div>*@
+        <div class="col-md-10 mt-3" id="QuestionContainer" style="height: 53vh; overflow: auto;">
+        </div>
+        <div class="col-md-11 mt-3">
+            <div class="modal-footer">
+                <button type="button" id="btnSubmitDetail" class="btn btn-sm btn-primary">Submit</button>
+            </div>
+        </div>
+    </div>
+</form>
+<script src="~/ProjectJS/UserSurveyForm.js"></script>
