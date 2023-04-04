@@ -1,0 +1,274 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+    ViewBag.Title = "Mendine Survey | Survey List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form id="SurveyCreation">
+    <label id="hdSessionUname" class="d-none">@Accessor.HttpContext.Session.GetString("UserName")</label>
+    <label id="hdSessionUID" class="d-none">@Accessor.HttpContext.Session.GetString("UserId")</label>
+    <label id="hdSessionUEmail" class="d-none">@Accessor.HttpContext.Session.GetString("UserEmail")</label>
+    <div class="d-flex align-items-center justify-content-between">
+        <h6 class="lead fs-3 d-block">ACTIVE SURVEY LIST</h6>
+        @*<a href="https://hrms.mendine.co.in/PsychometricModule/Emp/Emptestmapping.aspx" class="d-block btn btn-sm btn-outline-primary">Go to Psychometric Module</a>*@
+    </div>
+    <hr>
+    @*<div class="row">
+    <div class="col-md-4">
+    <div class="d-flex align-items-center justify-content-between">
+    <span class="d-block fw-bold fs-6">Filter By:</span>
+    <select class="form-select form-select-sm w-75">
+    <option selected value="all">Both</option>
+    <option value="publish">Publish</option>
+    <option value="date">Date</option>
+    </select>
+    </div>
+    </div>
+    <div class="col-md-8">
+    <div class="d-flex align-items-center justify-content-end" id="FilterContainer">
+    <div class="d-flex align-items-center">
+    <div class="me-1">
+    <input type="text" id="txtStartDateFilter" class="form-control form-control-sm bg-white" maxlength="10" placeholder="Start Date" required readonly />
+    </div>
+    <div class="ms-1">
+    <input type="text" id="txtEndDateFilter" class="form-control form-control-sm bg-white" maxlength="10" placeholder="End Date" required readonly />
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>*@
+    <div class="addIcon d-flex align-items-center justify-content-center rounded-circle text-white" id="btnAdd">
+        <i class="fa-solid fa-plus"></i>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="table-responsive">
+                <table class="table table-borderless SurveyTable-table" id="tblSurveyList">
+                    <thead class="text-center">
+                        <tr>
+                            <th>Survey Code</th>
+                            <th>Survey Details</th>
+                            <th>Date</th>
+                            <th>Tasks</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody class="SurveyTable" id="SurveyContainer">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="modal" tabindex="-1" role="dialog" id="ModalSurveyAdd" data-bs-keyboard="false" data-bs-backdrop="static">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title">
+                        <label class="fw-bold">SURVEY</label>
+                        <label id="lblHeader" class="fw-bold"></label>
+                        <input type="hidden" id="hdIDSurvey" />
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-4">
+                        <input type="text" id="txtName" autocomplete="off" class="form-control form-control-sm" maxlength="50" placeholder="Survey Name" required />
+                    </div>
+                    <div class="mb-4">
+                        <input type="text" id="txtRemarks" autocomplete="off" class="form-control form-control-sm" maxlength="50" placeholder="Short Description" required />
+                    </div>
+                    <div class="mb-4">
+                        <input type="text" id="txtStartDate" class="form-control form-control-sm bg-white" maxlength="10" placeholder="Start Date" required readonly />
+                    </div>
+                    <div class="mb-4">
+                        <input type="text" id="txtEndDate" class="form-control form-control-sm bg-white" maxlength="10" placeholder="End Date" required readonly />
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="btnCreate" class="btn btn-sm btn-primary">Save</button>
+                    <button type="button" id="btnClose" class="btn btn-sm btn-secondary">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" tabindex="-1" role="dialog" id="ModalSurveyDetail" data-bs-keyboard="false" data-bs-backdrop="static">
+        <div class="modal-dialog modal-dialog-scrollable modal-fullscreen" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title">
+                        <label class="fw-bold">SURVEY</label>
+                        <label id="lblHeaderDetail" class="fw-bold"></label>
+                        <input type="hidden" id="hdIDSurveyDetail" />
+                    </div>
+                </div>
+                <div class="modal-body" style="height:200px;overflow:scroll">
+                    <div class="row mb-2">
+                        <div class="col-md-2">
+                            <label>Title</label>
+                        </div>
+                        <div class="col-md-10">
+                            <input type="text" id="txtTitle" autocomplete="off" class="form-control form-control-sm" maxlength="100" />
+                        </div>
+                    </div>
+                    <div class="row mb-2">
+                        <div class="col-md-2">
+                            <label>Description</label>
+                        </div>
+                        <div class="col-md-10">
+                            <input type="text" id="txtDescription" autocomplete="off" class="form-control form-control-sm" maxlength="500" />
+                        </div>
+                    </div>
+                    <div class="row mb-4">
+                        @*<div class="col-md-2">
+                        <label>Marks</label>
+                        </div>
+                        <div class="col-md-4">
+                        <input type="text" id="txtMarks" class="form-control form-control-sm" maxlength="5" />
+                        </div>*@
+                        <div class="col-md-2">
+                            <label>Timer (in minutes)</label>
+                        </div>
+                        <div class="col-md-1">
+                            <input type="number" id="txtTime" class="form-control form-control-sm" maxlength="5" />
+                        </div>
+                        <div class="col-md-1">
+                            <label>Survey Type</label>
+                        </div>
+                        <div class="col-md-2">
+                            <select class="form-select form-select-sm" id="ddlSurveyType">
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <label id="lblSurveyTypeDtls"></label>
+                        </div>
+                    </div>
+                    @*<div class="row mb-4">
+                    <div class="col-md-2">
+                    <label>Survey Type</label>
+                    </div>
+                    <div class="col-md-4">
+                    <select class="form-select form-select-sm">
+                    <option selected>Open this select menu</option>
+                    <option value="1">One</option>
+                    <option value="2">Two</option>
+                    <option value="3">Three</option>
+                    </select>
+                    </div>
+                    </div>*@
+                    <div class="row mb-2 justify-content-center">
+                        <div class="col-md-10" id="QuestionContainer">
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <input type="button" id="btnAddQuestion" class="btn btn-sm btn-primary" value="Add Question" />
+                    <button type="button" id="btnSaveDetail" class="btn btn-sm btn-primary">Save</button>
+                    <button type="button" id="btnPublish" class="btn btn-sm btn-primary">Publish</button>
+                    <button type="button" id="btnCloseDetail" class="btn btn-sm btn-secondary">Close</button>
+                    <button type="button" id="btnTestPDF" class="btn btn-sm btn-secondary">PDF</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" role="dialog" id="ModalSurveyShare" data-bs-keyboard="false" and data-bs-backdrop="static">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title fw-bold">
+                        <label class="fw-bold">SHARE SURVEY</label>
+                        <label id="txtSurveyName" class="fw-bold"></label>
+                        <span>(<label id="lblShareSurveyHeader" class="fw-bold"></label>)</span>
+                        <input type="hidden" id="hdIDSurveyShare" />
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-4">
+                        <div class="d-flex align-items-center justify-content-between mt-3">
+                            <div class="d-flex align-items-center">
+                                <input class="form-check-input mt-0" type="radio" id="optEmail" name="shareType">
+                                <label class="form-check-label ms-2">
+                                    Share Outside (Via Email)
+                                </label>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <input class="form-check-input mt-0" type="radio" id="optEmp" name="shareType">
+                                <label class="form-check-label ms-2">
+                                    Share Inside (Employee Tagging)
+                                </label>
+                            </div>
+                            <input type="button" value="Submit" id="btnSurveyShareopt" class="btn btn-sm btn-primary" />
+                        </div>
+                    </div>
+                    <div class="mb-4" id="SurveyShareContainer">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="btnShare" class="btn btn-sm btn-primary">Share</button>
+                    <button type="button" id="btnShareClose" class="btn btn-sm btn-secondary">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" role="dialog" id="ModalSurveyApprShare" data-bs-keyboard="false" and data-bs-backdrop="static">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title fw-bold">
+                        <label class="fw-bold">SHARE SURVEY</label>
+                        <label id="txtApprSurveyName" class="fw-bold"></label>
+                        <span>(<label id="lblShareApprSurveyHeader" class="fw-bold"></label>)</span>
+                        <input type="hidden" id="hdIDApprSurveyShare" />
+                    </div>
+                </div>
+                <div class="modal-body">
+                    @*<div class="mb-4">
+                    <div class="d-flex align-items-center justify-content-between mt-3">
+                    <div class="d-flex align-items-center">
+                    <input class="form-check-input mt-0" type="radio" id="optEmail" name="shareType">
+                    <label class="form-check-label ms-2">
+                    Share Outside (Via Email)
+                    </label>
+                    </div>
+                    <div class="d-flex align-items-center">
+                    <input class="form-check-input mt-0" type="radio" id="optEmp" name="shareType">
+                    <label class="form-check-label ms-2">
+                    Share Inside (Employee Tagging)
+                    </label>
+                    </div>
+                    <input type="button" value="Submit" id="btnSurveyShareopt" class="btn btn-sm btn-primary" />
+                    </div>
+                    </div>*@
+                    <div class="mb-4" id="SurveyApprShareContainer">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <label class="form-label">Appraisee Details:</label>
+                            </div>
+                            <div class="col-md-6">
+                                <select class="form-control form-control-sm" multiple="multiple" id="ddlDept"></select>
+                            </div>
+                            <div class="col-md-6">
+                                <select class="form-control form-control-sm" id="ddlEmp"></select>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class="row">
+                            <div class="col-md-12">
+                                <label class="form-label">Appraiser Details:</label>
+                            </div>
+                            <div class="col-md-6">
+                                <select class="form-control form-control-sm" multiple="multiple" id="ddlApprDept"></select>
+                            </div>
+                            <div class="col-md-6">
+                                <select class="form-control form-control-sm" multiple="multiple" id="ddlApprEmp"></select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="btnApprShare" class="btn btn-sm btn-primary">Share</button>
+                    <button type="button" id="btnApprShareClose" class="btn btn-sm btn-secondary">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script src="~/ProjectJS/SurveyCreation.js"></script>

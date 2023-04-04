@@ -1,0 +1,87 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+    ViewBag.Title = "Mendine Survey | Tagged Survey List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form id="SurveyEmpResponse">
+    <label id="hdSessionUname" class="d-none">@Accessor.HttpContext.Session.GetString("UserName")</label>
+    <label id="hdSessionUID" class="d-none">@Accessor.HttpContext.Session.GetString("UserId")</label>
+    <label id="hdSessionUEmail" class="d-none">@Accessor.HttpContext.Session.GetString("UserEmail")</label>
+    <div class="d-flex align-items-center justify-content-between">
+        <h6 class="lead fs-3 d-block">TAGGED SURVEY LIST</h6>
+        <a href="https://hrms.mendine.co.in/ESSP/EsspWelcome.aspx" class="d-block btn btn-sm btn-outline-primary">Go to ESSP Module</a>
+    </div>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            @*<div class="d-flex align-items-center justify-content-between">
+            <span class="lead fs-3 d-block">
+            <label id="lblSurveyCode"></label>-
+            <label id="lblSurveyName"></label>
+            <input type="hidden" id="hdSurveyID" />
+            </span>
+            <span class="d-block">
+            <span class="lead fs-3">Full Marks: <label id="lblFullMarks" class="rounded-circle bg-primary px-2 py-1 text-white fs-5" style="font-weight:500;"></label></span>
+            </span>
+            </div>*@
+
+            <div id="divNormalSurvey">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link px-2 py-1 active fw-bold fs-6" id="profile-tab" data-bs-toggle="tab" data-bs-target="#divActive" type="button" role="tab">Active Surveys</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link px-2 py-1 fw-bold fs-6" id="home-tab" data-bs-toggle="tab" data-bs-target="#divInactive" type="button" role="tab">Submitted Surveys</button>
+                    </li>
+                </ul>
+                <div class="tab-content mt-2" id="myTabContent">
+                    <div class="tab-pane fade show active" id="divActive" role="tabpanel">
+                        <div class="table-responsive table-hover">
+                            <table class="table" id="tblEmpSurveyList">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Survey Name</th>
+                                        <th scope="col">Survey Detail</th>
+                                        <th scope="col">Response</th>
+                                        <th scope="col">Retag</th>
+                                        <th scope="col">Appraisee</th>
+                                        <th scope="col">Timer (in mins)</th>
+                                        <th scope="col">Start Day</th>
+                                        <th scope="col">End Day</th>
+                                        <th scope="col">Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tblSurveyList">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="divInactive" role="tabpanel">
+                        <div class="table-responsive table-hover">
+                            <table class="table" id="tblEmpInactSurveyList">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Survey Name</th>
+                                        <th scope="col">Survey Detail</th>
+                                        <th scope="col">Response</th>
+                                        <th scope="col">Retag</th>
+                                        <th scope="col">Appraisee</th>
+                                        <th scope="col">Timer (in mins)</th>
+                                        <th scope="col">Start Day</th>
+                                        <th scope="col">End Day</th>
+                                        <th scope="col">Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tblInactSurveyList">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script src="~/ProjectJS/EmployeeSurveyList.js"></script>

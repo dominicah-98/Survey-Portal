@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+:root {
+    --font: 'Roboto', sans-serif;
+    /*--font: 'Noto Sans', sans-serif;*/
+    --black: #333333;
+    /* --white: #FFFAFA; */
+    --white: white;
+    --color2: #2C5682;
+    --color2-dark: #25486D;
+    --color2-light: #396EA6;
+    --color4-light: #EA6570;
+    --color4: #e74f5d;
+    --color4-dark: #D45863;
+    /*--color5: #FDC3BE;
+    --color6: #FFE494;*/
+    --color-secondary: #888888;
+    --color-secondary-dark: #6e6e6e;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    color: var(--black);
+    font-family: var(--font);
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: inherit;
+}
+
+.bg-primary-light{
+    background-color: var(--color2-light);
+}
+
+.btn-primary{
+    background-color: var(--color2);
+    border: 1px solid var(--color2);
+    /* color: var(--black); */
+}
+
+.btn-primary:hover{
+    background-color: var(--color2-dark);
+    border: 1px solid var(--color2-dark);
+}
+
+.bg-img{
+    background-image: url('../images/bg1.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    width: 100px;
+    height: 50px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 20px;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, select, input[type=file]:focus, textarea:focus, input[type=checkbox]:focus, input[type=number]:focus, input[type=submit]:focus, input[type=button]:focus, button:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.form-control:focus{
+    border: 1px solid var(--color2);
+}
+
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+  }
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
