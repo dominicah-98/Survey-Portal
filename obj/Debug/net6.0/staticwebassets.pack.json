@@ -1,0 +1,3333 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Survey-Personal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Survey-Personal.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\Custom-Css\\login.css",
+      "PackagePath": "staticwebassets\\Custom-Css\\login.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\Custom-Css\\style.css",
+      "PackagePath": "staticwebassets\\Custom-Css\\style.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\Custom-js\\common.js",
+      "PackagePath": "staticwebassets\\Custom-js\\common.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\Custom-js\\function.js",
+      "PackagePath": "staticwebassets\\Custom-js\\function.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\Custom-js\\style.js",
+      "PackagePath": "staticwebassets\\Custom-js\\style.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\AUTHORS.txt"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\index.html",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\index.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery-ui-1.13.2\\package.json",
+      "PackagePath": "staticwebassets\\JQuery-ui-1.13.2\\package.json"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\JQuery\\jquery-3.6.1.js",
+      "PackagePath": "staticwebassets\\JQuery\\jquery-3.6.1.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\ProjectJS\\EmployeeSurveyList.js",
+      "PackagePath": "staticwebassets\\ProjectJS\\EmployeeSurveyList.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\ProjectJS\\Login.js",
+      "PackagePath": "staticwebassets\\ProjectJS\\Login.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\ProjectJS\\SurveyCreation.js",
+      "PackagePath": "staticwebassets\\ProjectJS\\SurveyCreation.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\ProjectJS\\SurveyResponse.js",
+      "PackagePath": "staticwebassets\\ProjectJS\\SurveyResponse.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\ProjectJS\\UserSurveyForm.js",
+      "PackagePath": "staticwebassets\\ProjectJS\\UserSurveyForm.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\bootstrap-5.2.3-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.2.3-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\images\\Logo1.png",
+      "PackagePath": "staticwebassets\\images\\Logo1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\images\\bg1.png",
+      "PackagePath": "staticwebassets\\images\\bg1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\images\\form1.png",
+      "PackagePath": "staticwebassets\\images\\form1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\images\\nofile.png",
+      "PackagePath": "staticwebassets\\images\\nofile.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\images\\photo2.jpg",
+      "PackagePath": "staticwebassets\\images\\photo2.jpg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\.editorconfig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\.editorconfig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\.gitignore",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\.gitignore"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\.jshintignore",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\.jshintignore"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\.jshintrc",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\.jshintrc"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\Gruntfile.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\LICENSE.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\bower.json",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\bower.json"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\component.json",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\component.json"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\composer.json",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\composer.json"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\css\\select2.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\css\\select2.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\af.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\af.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ar.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ar.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\az.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\az.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\bg.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\bg.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\bn.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\bn.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\bs.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\bs.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ca.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ca.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\cs.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\cs.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\da.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\da.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\de.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\de.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\dsb.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\dsb.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\el.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\el.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\en.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\en.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\eo.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\eo.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\es.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\et.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\et.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\eu.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\eu.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\fa.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\fi.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\fi.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\fr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\fr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\gl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\gl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\he.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\he.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hi.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hi.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hsb.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hsb.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hu.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hu.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hy.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\hy.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\id.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\id.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\is.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\is.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\it.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\it.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ja.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ja.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ka.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ka.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\km.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\km.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ko.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ko.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\lt.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\lt.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\lv.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\lv.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\mk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\mk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ms.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ms.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\nb.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\nb.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ne.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ne.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\nl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\nl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pa.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pa.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ps.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ps.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pt-BR.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pt-BR.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pt.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\pt.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ro.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ro.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ru.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\ru.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sq.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sq.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sr-Cyrl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sr-Cyrl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sv.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\sv.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\te.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\te.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\th.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\th.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\tk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\tk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\tr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\tr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\uk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\uk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\vi.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\vi.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\zh-CN.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\zh-CN.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\i18n\\zh-TW.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\i18n\\zh-TW.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\select2.full.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\select2.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\select2.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\dist\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\dist\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\LICENSE.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\accounts\\.gitkeep",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\accounts\\.gitkeep"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\assets\\rtfm-screenshot.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\assets\\rtfm-screenshot.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\config\\plugins\\anchors.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\config\\plugins\\anchors.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\config\\plugins\\highlight.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\config\\plugins\\highlight.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\config\\plugins\\simplesearch.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\config\\plugins\\simplesearch.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\config\\site.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\config\\site.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\config\\system.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\config\\system.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\data\\.gitkeep",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\data\\.gitkeep"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\localhost\\config\\security.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\localhost\\config\\security.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\localhost\\config\\system.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\localhost\\config\\system.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\01.installation\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\01.installation\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\02.basic-usage\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\02.basic-usage\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\03.builds-and-modules\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\03.builds-and-modules\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\chapter.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\01.getting-started\\chapter.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\02.troubleshooting\\01.getting-help\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\02.troubleshooting\\01.getting-help\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\02.troubleshooting\\02.common-problems\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\02.troubleshooting\\02.common-problems\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\02.troubleshooting\\chapter.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\02.troubleshooting\\chapter.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\01.options-api\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\01.options-api\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\02.defaults\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\02.defaults\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\03.data-attributes\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\03.data-attributes\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\03.configuration\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\04.appearance\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\04.appearance\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\05.options\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\05.options\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\01.formats\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\01.formats\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\02.ajax\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\02.ajax\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\03.arrays\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\03.arrays\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\chapter.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\06.data-sources\\chapter.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\07.dropdown\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\07.dropdown\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\08.selections\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\08.selections\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\09.tagging\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\09.tagging\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\10.placeholders\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\10.placeholders\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\11.searching\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\11.searching\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\01.add-select-clear-items\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\01.add-select-clear-items\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\02.retrieving-selections\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\02.retrieving-selections\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\03.methods\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\03.methods\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\04.events\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\04.events\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\chapter.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\12.programmatic-control\\chapter.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\13.i18n\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\13.i18n\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\01.adapters-and-decorators\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\01.adapters-and-decorators\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\01.selection\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\01.selection\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\02.array\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\02.array\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\03.ajax\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\03.ajax\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\04.data\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\04.data\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\05.results\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\05.results\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\06.dropdown\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\06.dropdown\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\02.default-adapters\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\chapter.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\14.advanced\\chapter.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\15.upgrading\\01.new-in-40\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\15.upgrading\\01.new-in-40\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\15.upgrading\\02.migrating-from-35\\docs.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\15.upgrading\\02.migrating-from-35\\docs.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\15.upgrading\\chapter.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\15.upgrading\\chapter.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ak.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ak.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\al.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\al.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ar.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\az.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\az.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ca.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\co.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\co.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ct.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ct.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\de.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\de.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\fl.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\fl.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ga.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\hi.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\hi.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ia.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ia.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\id.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\id.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\il.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\il.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\in.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\in.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ks.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ks.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ky.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\la.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\la.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ma.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\md.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\md.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\me.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\me.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mi.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mi.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mn.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mo.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ms.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\mt.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nc.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nd.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nd.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ne.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nh.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nh.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nj.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nj.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nm.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nm.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nv.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\nv.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ny.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ny.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\oh.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\oh.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ok.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ok.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\or.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\or.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\pa.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ri.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ri.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\sc.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\sd.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\tn.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\tx.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\tx.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ut.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\ut.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\va.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\va.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\vt.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\vt.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wa.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wa.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wi.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wi.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wv.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wv.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wy.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\flags\\wy.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\pages\\images\\logo.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\pages\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\.gitkeep",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\.gitkeep"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\LICENSE",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\anchors"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\anchors.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\anchors.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\anchors.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\anchors.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\js\\anchor.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\anchors\\js\\anchor.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\LICENSE",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\assets\\readme_1.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\assets\\readme_1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\breadcrumbs.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\breadcrumbs.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\breadcrumbs.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\breadcrumbs.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\classes\\breadcrumbs.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\classes\\breadcrumbs.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\css\\breadcrumbs.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\css\\breadcrumbs.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\templates\\partials\\breadcrumbs.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\breadcrumbs\\templates\\partials\\breadcrumbs.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\LICENSE",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\assets\\readme_1.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\assets\\readme_1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\cli\\LogCommand.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\cli\\LogCommand.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\error.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\error.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\error.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\error.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\languages.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\languages.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\pages\\error.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\pages\\error.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\templates\\error.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\templates\\error.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\error\\templates\\error.json.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\error\\templates\\error.json.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\LICENSE",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\assets\\readme_1.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\assets\\readme_1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\agate.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\agate.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\androidstudio.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\androidstudio.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\arduino-light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\arduino-light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\arta.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\arta.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\ascetic.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\ascetic.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-cave.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-cave.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-cave.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-cave.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-dune.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-dune.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-dune.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-dune.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-estuary.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-estuary.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-estuary.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-estuary.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-forest.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-forest.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-forest.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-forest.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-heath.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-heath.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-heath.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-heath.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-lakeside.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-lakeside.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-lakeside.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-lakeside.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-plateau.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-plateau.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-plateau.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-plateau.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-savanna.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-savanna.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-savanna.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-savanna.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-seaside.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-seaside.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-seaside.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-seaside.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-sulphurpool.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-sulphurpool.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-sulphurpool.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\atelier-sulphurpool.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\brown-paper.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\brown-paper.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\codepen-embed.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\codepen-embed.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\color-brewer.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\color-brewer.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\darkula.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\darkula.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\default.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\default.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\docco.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\docco.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\far.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\far.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\foundation.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\foundation.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\github-gist.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\github-gist.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\github.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\github.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\googlecode.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\googlecode.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\grayscale.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\grayscale.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\hopscotch.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\hopscotch.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\hybrid.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\hybrid.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\idea.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\idea.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\ir-black.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\ir-black.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\kimbie.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\kimbie.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\kimbie.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\kimbie.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\learn.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\learn.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\magula.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\magula.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\mono-blue.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\mono-blue.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\monokai-sublime.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\monokai-sublime.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\monokai.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\monokai.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\obsidian.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\obsidian.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso-dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso-dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso-light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso-light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso.dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso.dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso.light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\paraiso.light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\pojoaque.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\pojoaque.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\railscasts.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\railscasts.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\rainbow.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\rainbow.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\school-book.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\school-book.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\solarized-dark.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\solarized-dark.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\solarized-light.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\solarized-light.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\sunburst.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\sunburst.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night-blue.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night-blue.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night-bright.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night-bright.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night-eighties.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night-eighties.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow-night.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\tomorrow.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\vs.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\vs.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\xcode.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\xcode.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\zenburn.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\css\\zenburn.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\highlight.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\highlight.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\highlight.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\highlight.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\js\\highlight.pack.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\js\\highlight.pack.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\js\\highlightjs-line-numbers.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\highlight\\js\\highlightjs-line-numbers.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\LICENSE",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\assets\\readme_1.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\assets\\readme_1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\css\\problems.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\css\\problems.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\css\\template.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\css\\template.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\html\\problems.html",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\html\\problems.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\problems.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\problems.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\problems.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\problems\\problems.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\LICENSE",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\assets\\readme_1.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\assets\\readme_1.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\assets\\search.svg",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\assets\\search.svg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\css\\simplesearch.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\css\\simplesearch.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\js\\simplesearch.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\js\\simplesearch.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\languages.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\languages.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\pages\\simplesearch.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\pages\\simplesearch.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\simplesearch.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\simplesearch.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\simplesearch.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\simplesearch.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\partials\\simplesearch_base.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\partials\\simplesearch_base.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\partials\\simplesearch_item.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\partials\\simplesearch_item.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\partials\\simplesearch_searchbox.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\partials\\simplesearch_searchbox.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\simplesearch_results.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\simplesearch_results.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\simplesearch_results.json.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\plugins\\simplesearch\\templates\\simplesearch_results.json.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\screenshot.jpg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\.gitkeep",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\.gitkeep"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\LICENSE",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\README.md",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\README.md"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\blueprints.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\blueprints.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\blueprints\\chapter.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\blueprints\\chapter.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\blueprints\\docs.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\blueprints\\docs.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\nucleus.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\nucleus.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\nucleus.css.map",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\nucleus.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\theme.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\theme.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\theme.css.map",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css-compiled\\theme.css.map"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\featherlight.min.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\featherlight.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\nucleus-ie10.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\nucleus-ie10.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\nucleus-ie9.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\nucleus-ie9.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\pure-0.5.0\\grids-min.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\css\\pure-0.5.0\\grids-min.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\images\\clippy.svg",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\images\\clippy.svg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\images\\logo.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\clipboard.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\featherlight.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\featherlight.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\html5shiv-printshiv.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\html5shiv-printshiv.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\learn.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\learn.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\modernizr.custom.71422.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\js\\modernizr.custom.71422.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\languages.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\languages.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\learn2.php",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\learn2.php"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\learn2.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\learn2.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\screenshot.jpg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss.sh",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss.sh"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_base.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_base.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_core.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_core.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_layout.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_layout.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_nav.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_nav.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_typography.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\nucleus\\_typography.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\theme\\_base.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\theme\\_base.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\theme\\_bullets.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\theme\\_bullets.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\theme\\_colors.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\configuration\\theme\\_colors.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_core.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_core.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_flex.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_flex.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_forms.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_forms.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_typography.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\_typography.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\functions\\_base.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\functions\\_base.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\functions\\_direction.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\functions\\_direction.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\functions\\_range.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\functions\\_range.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\mixins\\_base.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\mixins\\_base.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\particles\\_align-text.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\particles\\_align-text.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\particles\\_visibility.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\nucleus\\particles\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_bullets.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_bullets.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_buttons.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_configuration.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_configuration.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_core.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_core.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_custom.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_custom.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_fonts.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_fonts.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_forms.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_forms.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_main.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_main.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_nav.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_nav.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_scrollbar.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_scrollbar.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_tables.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_tables.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_tooltips.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_typography.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\_typography.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\modules\\_base.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\modules\\_base.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\modules\\_buttons.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\theme\\modules\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\_bourbon-deprecated-upcoming.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\_bourbon-deprecated-upcoming.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\_bourbon.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\_bourbon.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_button.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_button.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_directional-values.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_directional-values.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_ellipsis.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_ellipsis.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_font-family.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_font-family.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_hide-text.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_html5-input-types.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_html5-input-types.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_position.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_position.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_prefixer.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_prefixer.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_rem.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_rem.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_retina-image.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_retina-image.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_size.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_size.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_timing-functions.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_timing-functions.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_triangle.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_triangle.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_word-wrap.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\addons\\_word-wrap.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_animation.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_animation.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_appearance.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_appearance.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_backface-visibility.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_backface-visibility.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_background-image.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_background-image.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_background.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_background.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_border-image.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_border-image.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_box-sizing.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_box-sizing.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_calc.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_calc.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_columns.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_columns.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_filter.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_filter.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_flex-box.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_flex-box.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_font-face.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_font-face.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_font-feature-settings.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_font-feature-settings.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_hidpi-media-query.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_hidpi-media-query.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_hyphens.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_hyphens.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_image-rendering.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_image-rendering.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_keyframes.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_keyframes.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_linear-gradient.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_linear-gradient.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_perspective.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_perspective.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_placeholder.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_placeholder.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_radial-gradient.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_radial-gradient.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_transform.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_transform.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_transition.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_transition.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_user-select.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\css3\\_user-select.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_assign.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_assign.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_color-lightness.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_color-lightness.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_flex-grid.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_flex-grid.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_golden-ratio.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_golden-ratio.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_grid-width.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_grid-width.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_modular-scale.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_modular-scale.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_px-to-em.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_px-to-em.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_px-to-rem.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_px-to-rem.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_strip-units.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_strip-units.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_tint-shade.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_tint-shade.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_transition-property-name.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_transition-property-name.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_unpack.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\functions\\_unpack.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_convert-units.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_convert-units.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_gradient-positions-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_gradient-positions-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_is-num.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_is-num.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-angle-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-angle-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-gradient-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-gradient-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-positions-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-positions-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-side-corner-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_linear-side-corner-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_radial-arg-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_radial-arg-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_radial-gradient-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_radial-gradient-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_radial-positions-parser.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_radial-positions-parser.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_render-gradients.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_render-gradients.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_shape-size-stripper.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_shape-size-stripper.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_str-to-num.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\helpers\\_str-to-num.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\settings\\_prefixer.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\settings\\_prefixer.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\settings\\_px-to-em.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\bourbon\\settings\\_px-to-em.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\_color-schemer.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\_color-schemer.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_cmyk.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_cmyk.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_color-adjustments.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_color-adjustments.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_color-schemer.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_color-schemer.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_colorblind.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_colorblind.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_comparison.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_comparison.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_equalize.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_equalize.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_harmonize.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_harmonize.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_interpolation.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_interpolation.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_mix.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_mix.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_mixins.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_ryb.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_ryb.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_tint-shade.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\scss\\vendor\\color-schemer\\color-schemer\\_tint-shade.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\chapter.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\chapter.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\default.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\default.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\docs.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\docs.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\error.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\error.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\analytics.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\analytics.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\base.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\base.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\github_link.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\github_link.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\github_note.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\github_note.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\logo.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\logo.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\metadata.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\metadata.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\page.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\page.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\sidebar.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\templates\\partials\\sidebar.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\thumbnail.jpg",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\learn2\\thumbnail.jpg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\css\\s2-docs.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\css\\s2-docs.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\css\\theme.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\css\\theme.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\android-chrome-36x36.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\android-chrome-36x36.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\android-chrome-48x48.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\android-chrome-48x48.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\android-chrome-72x72.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\android-chrome-72x72.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-60x60.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-60x60.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-precomposed.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon-precomposed.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon-16x16.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\manifest.json",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\manifest.json"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\mstile-150x150.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\mstile-310x150.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\mstile-310x150.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\mstile-70x70.png",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\mstile-70x70.png"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\images\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\js\\data-fill-from.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\js\\data-fill-from.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\site.yaml",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\site.yaml"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\base.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\base.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\js\\source-states.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\js\\source-states.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\logo.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\logo.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\sidebar.html.twig",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\docs\\themes\\site\\templates\\partials\\sidebar.html.twig"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\package.json",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\package.json"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\banner.end.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\banner.end.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\banner.start.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\banner.start.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\jquery.mousewheel.shim.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\jquery.mousewheel.shim.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\jquery.select2.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\jquery.select2.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\jquery.shim.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\jquery.shim.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\core.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\core.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\ajax.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\ajax.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\array.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\array.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\base.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\base.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\maximumInputLength.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\maximumInputLength.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\maximumSelectionLength.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\maximumSelectionLength.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\minimumInputLength.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\minimumInputLength.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\select.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\select.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\tags.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\tags.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\tokenizer.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\data\\tokenizer.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\defaults.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\defaults.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\diacritics.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\diacritics.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\attachBody.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\attachBody.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\attachContainer.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\attachContainer.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\closeOnSelect.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\closeOnSelect.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\dropdownCss.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\dropdownCss.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\hidePlaceholder.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\hidePlaceholder.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\infiniteScroll.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\infiniteScroll.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\minimumResultsForSearch.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\minimumResultsForSearch.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\search.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\search.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\selectOnClose.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\selectOnClose.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\stopPropagation.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\stopPropagation.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\tagsSearchHighlight.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\dropdown\\tagsSearchHighlight.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\af.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\af.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ar.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ar.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\az.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\az.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\bg.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\bg.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\bn.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\bn.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\bs.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\bs.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ca.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ca.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\cs.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\cs.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\da.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\da.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\de.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\de.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\dsb.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\dsb.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\el.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\el.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\en.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\en.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\eo.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\eo.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\es.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\et.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\et.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\eu.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\eu.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\fa.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\fi.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\fi.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\fr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\fr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\gl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\gl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\he.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\he.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hi.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hi.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hsb.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hsb.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hu.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hu.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hy.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\hy.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\id.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\id.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\is.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\is.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\it.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\it.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ja.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ja.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ka.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ka.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\km.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\km.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ko.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ko.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\lt.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\lt.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\lv.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\lv.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\mk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\mk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ms.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ms.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\nb.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\nb.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ne.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ne.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\nl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\nl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pa.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pa.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ps.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ps.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pt-BR.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pt-BR.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pt.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\pt.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ro.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ro.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ru.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\ru.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sq.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sq.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sr-Cyrl.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sr-Cyrl.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sv.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\sv.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\te.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\te.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\th.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\th.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\tk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\tk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\tr.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\tr.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\uk.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\uk.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\vi.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\vi.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\zh-CN.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\zh-CN.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\zh-TW.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\i18n\\zh-TW.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\keys.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\keys.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\options.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\options.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\results.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\results.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\allowClear.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\allowClear.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\base.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\base.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\clickMask.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\clickMask.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\eventRelay.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\eventRelay.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\multiple.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\multiple.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\placeholder.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\placeholder.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\search.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\search.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\selectionCss.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\selectionCss.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\single.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\single.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\stopPropagation.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\selection\\stopPropagation.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\translation.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\translation.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\select2\\utils.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\select2\\utils.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\wrapper.end.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\wrapper.end.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\js\\wrapper.start.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\js\\wrapper.start.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\_multiple.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\_multiple.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\_single.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\_single.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\core.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\_defaults.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\_defaults.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\_multiple.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\_multiple.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\_single.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\_single.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\layout.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\theme\\classic\\layout.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\theme\\default\\_multiple.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\theme\\default\\_multiple.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\theme\\default\\_single.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\theme\\default\\_single.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\src\\scss\\theme\\default\\layout.scss",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\src\\scss\\theme\\default\\layout.scss"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\a11y\\selection-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\a11y\\selection-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\array-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\array-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\base-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\base-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\maximumInputLength-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\maximumInputLength-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\maximumSelectionLength-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\maximumSelectionLength-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\minimumInputLength-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\minimumInputLength-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\select-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\select-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\tags-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\tags-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\data\\tokenizer-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\data\\tokenizer-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\dropdown\\dropdownCss-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\dropdown\\dropdownCss-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\dropdown\\dropdownParent-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\dropdown\\dropdownParent-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\dropdown\\positioning-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\dropdown\\positioning-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\dropdown\\search-a11y-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\dropdown\\search-a11y-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\dropdown\\search-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\dropdown\\search-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\dropdown\\selectOnClose-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\dropdown\\selectOnClose-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\dropdown\\stopPropagation-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\dropdown\\stopPropagation-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\helpers.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\helpers.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\integration-jq1.html",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\integration-jq1.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\integration-jq2.html",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\integration-jq2.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\integration-jq3.html",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\integration-jq3.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\integration\\dom-changes.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\integration\\dom-changes.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\integration\\jquery-calls.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\integration\\jquery-calls.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\integration\\select2-methods.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\integration\\select2-methods.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\options\\ajax-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\options\\ajax-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\options\\data-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\options\\data-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\options\\element-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\options\\element-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\options\\translation-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\options\\translation-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\options\\width-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\options\\width-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\results\\a11y-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\results\\a11y-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\results\\focusing-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\results\\focusing-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\results\\infiniteScroll-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\results\\infiniteScroll-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\results\\option-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\results\\option-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\allowClear-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\allowClear-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\focusing-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\focusing-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\multiple-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\multiple-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\openOnKeyDown-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\openOnKeyDown-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\placeholder-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\placeholder-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\search-a11y-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\search-a11y-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\search-placeholder-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\search-placeholder-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\search-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\search-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\selectionCss-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\selectionCss-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\single-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\single-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\selection\\stopPropagation-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\selection\\stopPropagation-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\unit-jq1.html",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\unit-jq1.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\unit-jq2.html",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\unit-jq2.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\unit-jq3.html",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\unit-jq3.html"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\utils\\data-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\utils\\data-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\utils\\decorator-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\utils\\decorator-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\utils\\escapeMarkup-tests.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\utils\\escapeMarkup-tests.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\vendor\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\vendor\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\vendor\\jquery-2.2.4.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\vendor\\jquery-2.2.4.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\vendor\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\vendor\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\vendor\\qunit-1.23.1.css",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\vendor\\qunit-1.23.1.css"
+    },
+    {
+      "Id": "E:\\GitRepos\\Survey-Portal\\wwwroot\\select2-4.1.0-rc.0\\tests\\vendor\\qunit-1.23.1.js",
+      "PackagePath": "staticwebassets\\select2-4.1.0-rc.0\\tests\\vendor\\qunit-1.23.1.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Survey-Personal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Survey-Personal.props",
+      "PackagePath": "build\\Survey-Personal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Survey-Personal.props",
+      "PackagePath": "buildMultiTargeting\\Survey-Personal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Survey-Personal.props",
+      "PackagePath": "buildTransitive\\Survey-Personal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

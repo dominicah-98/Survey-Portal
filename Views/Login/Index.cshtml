@@ -1,0 +1,71 @@
+﻿@{
+    Layout=null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Module | Login</title>
+    <script src="~/JQuery/jquery-3.6.1.js"></script>
+    <script src="~/bootstrap-5.2.3-dist/js/bootstrap.min.js"></script>
+    <link href="~/bootstrap-5.2.3-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="~/Custom-Css/login.css" rel="stylesheet" />
+    <script src="~/ProjectJS/Login.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    <div class="bg-img">
+        <!-- Login card -->
+        <div class="container d-flex align-items-center justify-content-center">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card-body rounded bg-white shadow">
+                        <div class="logo d-flex justify-content-center">
+                            <img src="images/Logo1.png" alt="Logo" class="logo-img">
+                        </div>
+                        <!-- <h6 class="version">Version: 2022.01.001</h6> -->
+                        <div class="container-fluid mt-4">
+                            <div class="text-center mb-4">
+                                <h5 class="mt-4 fw-bold fs-4">User Login</h5>
+                            </div>
+                            <!-- Login form -->
+                            <form id="frmLogin">
+                                <div class="input-group has-validation mb-3">
+                                    <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-at"></i></span>
+                                    <input type="email" class="form-control" placeholder="User Email" id="txtEmail" required>
+                                    <div class="invalid-feedback" id="invalidEmail" style="display:none;">
+                                        Please Enter Email ID.
+                                    </div>
+                                </div>
+                                <div class="input-group has-validation mb-3">
+                                    <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-key"></i></span>
+                                    <input type="password" class="form-control" placeholder="User Password" id="txtPassword" required>
+                                    <div class="invalid-feedback" id="invalidPass" style="display:none;">
+                                        Please Enter Password.
+                                    </div>
+                                </div>
+                                <div class="form-group d-grid gap-2 mb-md-2 mt-4">
+                                    <input type="button" id="btnLogin" class="btn btn-lg btn-primary w-100" value="Login" />
+                                    @*<a href="/SurveyCreation">
+                                    <button type="button" id="btnLogin" class="">
+                                    <i class="fa-solid fa-arrow-right-to-bracket me-2"></i>
+                                    Login
+                                    </button>
+                                    </a>*@
+                                </div>
+                            </form>
+                            <!-- End of login form -->
+                        </div>
+                    </div>
+                    <span class="d-block text-center mt-md-5 mt-4 small">2022 Technical Collaboration with IECSL Team</span>
+                </div>
+            </div>
+        </div>
+        <!-- End of login card -->
+    </div>
+</body>
+</html>
